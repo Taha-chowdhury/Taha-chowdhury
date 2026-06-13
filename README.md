@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Taha-chowdhury
-- 👀 I’m interested in Software enginnering
-- 🌱 I’m currently an UG Student
+- 👀 I’m interested in Data Science, MIS
 - 📫 Feel free to knock
 
 
